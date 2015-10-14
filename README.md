@@ -20,8 +20,8 @@ Build a map-based application, which lets the user see geo-based data on a map a
 
 Fork this repository and fill in (either in English, or in Slovak):
 
-**Application description**: `<fill in>`
+**Application description**: `Výsledné riešenie by primárne slúžilo pre zobrazovanie ubytovacích zariadení na mape. Každé s iným typom značky. Používateľ bude mať možnosť filtrovať typ ubytovania (hotel, motel...) a taktiež možnosť zobrazenia blízkych zariadení pre občerstvenie, kultúru a pod., v okolí ním zvoleného ubytovacieho zariadenia.`
 
-**Data source**: `<fill in>`
+**Data source**: `openstreetmap.org`
 
 **Technologies used**: `<fill in>`
